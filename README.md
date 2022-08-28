@@ -4,7 +4,7 @@
 [![Portfolio ](https://img.shields.io/website?label=JoabFerreira.com&style=for-the-badge&url=https://joabferreira.com/)](https://joabferreira.com/)
 [![Portfolio ](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joabfs/)
 
-![Joab GitHub stats](https://github-readme-stats.vercel.app/api?username=joabcks&show_icons=true&theme=dracula)
+![Joab GitHub stats](https://github-readme-stats.vercel.app/api?username=joabcks&show_icons=true&theme=gruvbox)
 
 ### Tecnlogias que uso no meu dia a dia
 
